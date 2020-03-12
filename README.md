@@ -14,3 +14,6 @@ The aim of the project: Create a console app to start fundraise projects.
   - edit existing project
   - delete project
   - show all projects
+
+
+**This project was made by Cloud Platform Development track students @ ITI intake 40.**
