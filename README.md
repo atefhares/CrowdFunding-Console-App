@@ -7,7 +7,7 @@ over US$34 billion was raised worldwide by crowdfunding
 
 The aim of the project: Create a console app to start fundraise projects.
 
-# Featuers:
+# Features:
 - Authentication System
 - Projects:
   - add new project
